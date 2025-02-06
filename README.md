@@ -9,7 +9,7 @@ This project explores the factors influencing Olympic success for both individua
 
 This study leverages *Linear Discriminant Analysis (LDA)*, *Multinomial Logistic Regression*, and *Random Forest Classifiers* to uncover key insights.
 
-This project is part of the **independent coursework for McGill MMA MGSC 661**.
+This project was conducted in **R** as part of the **independent coursework for McGill MMA MGSC 661**.
 
 ---
 
@@ -45,10 +45,17 @@ The dataset contains Olympic athlete participation records from **1896 to 2016**
 
 ## 🎯 Key Findings
 
-- 🏅 **Home advantage significantly increases the likelihood of winning Silver and Gold medals.**
+- 🏅 **Home advantage significantly increases the likelihood of winning Gold and Silver medals.**
 - 🌍 **Countries with broader participation across sports & events rank higher.**
 - 📈 **Past performance (prior medals) is the strongest predictor of future success.**
-- 🏠 **Hosting the Olympics boosts a nation's chances of finishing in the Top 15.**
+- 🏠 **Hosting the Olympics correlates with a nation's chances of finishing in the Top 15.**
+
+---
+
+## 📖 Interpretation
+
+- **Experience does not always guarantee success**. While previous medalists have a higher likelihood of winning again, the effect diminishes for athletes with too many prior Olympic appearances, possibly due to aging or competition changes.
+- **Historical performance is the best predictor of future rankings**. Countries with consistent success in past Olympic Games continue to dominate, showing the importance of long-term sports investment.
 
 ---
 
