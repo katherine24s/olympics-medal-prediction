@@ -63,7 +63,7 @@ The dataset contains Olympic athlete participation records from **1896 to 2016**
 
 **📝 Author:** Katherine Gong  
 **📧 Email:** shaojun.gong@mail.mcgill.ca  
-**🔗 LinkedIn:** [linkedin.com/in/katherinegong](https://www.linkedin.com/in/katherinegong/)  
+**🔗 LinkedIn:** https://www.linkedin.com/in/katherine-shaojun-gong-525262213/
 
 **📌 Course:** MGSC 661 - McGill MMA  
 **📅 Date:** December 2024  
